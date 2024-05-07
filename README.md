@@ -23,7 +23,7 @@ Module 7: Display Sensor Data
 
 Module 8: Interpret Sensor Data
 
-Module 9: Cloud DB (TO BE IMPLEMENTED)
+Module 9: Azure DB
 
 Module 10: AI (TO BE IMPLEMENTED)
 
